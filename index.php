@@ -1,4 +1,5 @@
 <?php
+//modif pour test git
 require_once("include/fct.inc.php");
 require_once ("include/modele.inc.php");
 include("vues/v_entete.php") ;
